@@ -1,3 +1,3 @@
-# LanguageAgent Releases
+# Parrotlet Releases
 
-Release artifacts & Sparkle appcast for mellivora-language-agent (private source repo).
+Release artifacts & Sparkle appcast for parrotlet (private source repo).
