@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>LanguageAgent Updates</title>
+    <link>https://github.com/mellivora-tech/mellivora-language-agent-releases</link>
+    <description>Sparkle update feed for LanguageAgent</description>
+    <language>zh-cn</language>
+  </channel>
+</rss>
