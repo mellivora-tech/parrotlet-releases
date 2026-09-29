@@ -5,5 +5,15 @@
     <link>https://github.com/mellivora-tech/parrotlet-releases</link>
     <description>Sparkle update feed for Parrotlet</description>
     <language>zh-cn</language>
+    <item>
+      <title>Parrotlet 0.1.0</title>
+      <pubDate>Tue, 29 Sep 2026 16:19:12 +0800</pubDate>
+      <sparkle:version>20260929</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/mellivora-tech/parrotlet-releases/releases/download/v0.1.0/Parrotlet-0.1.0.zip"
+                 sparkle:edSignature="42PwUrucvd5h7niv+xMCTlGnX5Ev2TX5JpGVy2aoPQn4UYEa2krVNw05mmLHCgTUAo2GXYx/o4T/HhMkUcIzCw=="
+                 length="8680943" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
